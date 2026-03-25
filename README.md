@@ -187,6 +187,5 @@ environment variables 4. Deploy API
 ------------------------------------------------------------------------
 
 # Author
-
-Rahim\
-Electronics and IoT Enthusiast
+Ikupa Ephraim
+24BCY70237
